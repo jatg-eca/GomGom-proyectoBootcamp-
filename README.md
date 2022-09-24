@@ -1,3 +1,5 @@
 # GomGom
-E-commerce de GomGom: https://www.instagram.com/gom.fcg/
-Página en Netlify:  https://gominolas.netlify.app/
+
+Proyecto del equipo JavaJavaDo! en el que participé durante el bootcamp:
+
+https://gomgominolas.herokuapp.com/
